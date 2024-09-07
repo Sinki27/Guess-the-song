@@ -7,7 +7,7 @@ let dadosMusicas = [
         genero: "Rock"
     },
     {   
-        musica: "./sons/EARFQUAKE.mp3",
+        musica: "./sons/Earfquake.mp3",
         nome: "EARFQUAKE",
         cantor: "Tyler, the creator",
         anos: "2019",
