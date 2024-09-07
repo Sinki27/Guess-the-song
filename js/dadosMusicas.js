@@ -3,7 +3,7 @@ let dadosMusicas = [
         musica: "./sons/Queen_Don't_Stop_Me_Now.mp3",
         nome: "Don't Stop Me Now",
         cantor: "Queen",
-        anos: "1970 e 1980",
+        anos: "1979",
         genero: "Rock"
     },
     {   
