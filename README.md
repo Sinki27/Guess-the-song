@@ -2,6 +2,11 @@
 
 Este projeto apresenta um teste em formato de jogo onde o usuário precisa adivinhar o nome de uma música com base na melodia.
 
+# Fotos
+
+
+![Tela musica com prompt de dica](https://photos.app.goo.gl/fggtZrVYy2FwioWs9)
+
 ## Tecnologias Utilizadas
 
 * **HTML:** Estrutura da página.
