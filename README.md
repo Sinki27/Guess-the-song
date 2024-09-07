@@ -1,6 +1,6 @@
 # Guess the song!
 
-Este projeto é um jogo simples onde o usuário precisa adivinhar o nome de uma música com base em um trecho da melodia.
+Este projeto apresenta um teste em formato de jogo onde o usuário precisa adivinhar o nome de uma música com base na melodia.
 
 ## Tecnologias Utilizadas
 
@@ -12,6 +12,8 @@ Este projeto é um jogo simples onde o usuário precisa adivinhar o nome de uma 
 
 1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
 2. Abra o arquivo `index.html` em seu navegador.
+
+3. Ou use o deploy com este link:
 
 ## Estrutura de Arquivos
 
