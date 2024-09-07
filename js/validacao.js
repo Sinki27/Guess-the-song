@@ -30,7 +30,7 @@ function validar() {
                     <button onclick="pesquisar()">Para saber mais da Musica</button>
                 </div>
                 `
-                botaoT.classList.add('desativado');
+                botaoT.classList.add('desativado'); 
         } else {
             if (!(nome.includes(chute))) {
                 alert('Errado!')

@@ -41,20 +41,20 @@ let dadosMusicas = [
         anos: "2021", 
         genero: "Sertanejo" 
     },
-    { 
-        musica: "./sons/Eu_gosto_assim.mp3",
-         nome: "Eu Gosto Assim",
-          cantor: "Gustavo Mioto e Mari Fernandez",
-           anos: "2022",
-            genero: "Sertanejo" 
-    },
-    {
-        musica: "./sons/Ta_rocheda.mp3",
-         nome: "Tá Rocheda", 
-         cantor: "Barões da Pisadinha", 
-         anos: "2021", 
-         genero: "Piseiro" 
-    },
+    // { 
+    //     musica: "./sons/Eu_gosto_assim.mp3",
+    //      nome: "Eu Gosto Assim",
+    //       cantor: "Gustavo Mioto e Mari Fernandez",
+    //        anos: "2022",
+    //         genero: "Sertanejo" 
+    // },
+    // {
+    //     musica: "./sons/Ta_rocheda.mp3",
+    //      nome: "Tá Rocheda", 
+    //      cantor: "Barões da Pisadinha", 
+    //      anos: "2021", 
+    //      genero: "Piseiro" 
+    // },
     {
         musica: "./sons/Beat_It.mp3",
          nome: "Beat It", 
