@@ -5,7 +5,7 @@ Este projeto apresenta um teste em formato de jogo onde o usuário precisa adivi
 # Fotos
 
 
-![Tela musica com prompt de dica]([https://photos.app.goo.gl/fggtZrVYy2FwioWs9](https://photos.app.goo.gl/2WUH3cvoLKPcphHQA))
+![Tela musica com prompt de dica](https://imgur.com/11Lpxvy)
 
 ## Tecnologias Utilizadas
 
