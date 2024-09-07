@@ -2,12 +2,6 @@
 
 Este projeto apresenta um teste em formato de jogo onde o usuário precisa adivinhar o nome de uma música com base na melodia.
 
-# Fotos
-
-<img src="./img/readme/telaHomeMusicaDica.PNG" alt="Tela musica com prompt de dica">
-
-![Tela musica com prompt de dica]([text](https://imgur.com/gQbuPlq))
-
 ## Tecnologias Utilizadas
 
 * **HTML:** Estrutura da página.
