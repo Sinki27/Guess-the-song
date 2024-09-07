@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./img/icon.jpeg" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="card.css">
+    <title>Game de Musica</title>
+</head>
+
+<body class="imagem-fundo">
+    <header>
+        <h1> Game Musics </h1>
+    </header>
+    <main>
+        <section>
+            <section class="resultados-pesquisa" id="resultados-pesquisa">
+                
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fJ9rUzIMcZQ"></iframe> -->
+                
+                <div class="item-resultado regras ativado">
+                    <h2> Como funciona o Jogo?</h2>
+                        <p class="descricao-meta"> Desafie seu cérebro tentando se lembrar do nome da música que está ouvindo. Vamos ver se você é bom o bastante!!</p>
+                        <p class="descricao-meta"></p>
+                        <a href="https://gemini.google.com/app?utm_source=website&utm_medium=referral&utm_campaign=alura_aug24" target="_blank">Para mais informações que tal pesquisar no Gemini 😎</a>
+                </div>
+
+                <!-- <div class="item-resultado desativado">
+                    <h2>Clipe</h2>
+                        <p class="descricao-meta"> Ouvir </p>
+                </div> -->
+
+                <div class="musicaTocar desativado">
+                    <div class="item-resultado" >
+                        <h2> Adivinhe a música </h2>
+                            <p class="descricao-meta"> Aperte o botão e se prepare para ouvir a música. <br> Se você souber o nome e quiser enviar sua resposta, escreva seu chute aqui <br> embaixo e descubra se acertou ou não! <br> <br> Me mostre que conhece todas as músicas para ganhar o jogo!</p>
+                            <ul class="app__card-list">
+                                <li class="app__card-list-item">
+                                    <label class="toggle">
+                                        <input class="toggle-checkbox" type="checkbox" id="alternar-musica">
+                                        <div class="toggle-switch"></div>
+                                    </label>
+                                </li>
+                                <li class="app__card-list-item">
+                                    <label class="app__card-list-label" for="alternar-musica">
+                                        Música
+                                    </label>
+                                </li>
+                            </ul>
+                            <div class="input">
+                                <input type="text" placeholder="Digite o nome da musica" id="campo-pesquisa">
+                            </div>
+                            <div>
+                                <button onclick="validar()">Enviar</button>
+                                <button onclick="dica()">Dica</button>
+                                <button onclick="trocarMusica()">Trocar a Musica</button>
+                            </div>    
+                        </div>
+            </section>
+            <div>
+                <button class="botaoJ">Vamos Jogar?</button>
+                <button class="botaoT desativado">Tela Inicial</button>
+                <!-- <button id="comecar">Jogar</button> -->
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p> - <a href="https://www.linkedin.com/in/gabriel-guilherme-70101b246/" target="_blank">Sinki27</a> - </p>
+        <p> Projeto realizado na imersão Dev da Alura + Google Gemini</p>
+    </footer>
+    <script src="./js/dadosMusicas.js"></script>
+    <script src="./js/musica.js"></script>
+    <script src="./js/validacao.js"></script>
+    
+    <script src="./js/dados.js"></script>
+    <script src="./js/app.js"></script>
+</body>
+
+</html>
