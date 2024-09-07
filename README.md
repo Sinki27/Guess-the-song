@@ -13,7 +13,7 @@ Este projeto apresenta um teste em formato de jogo onde o usuário precisa adivi
 1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
 2. Abra o arquivo `index.html` em seu navegador.
 
-3. Ou use o deploy com este link: guess-the-song-five.vercel.app
+3. Ou use o deploy com este link: [guess-the-song-five.vercel.app](https://guess-the-song-five.vercel.app/)
 
 ## Estrutura de Arquivos
 
