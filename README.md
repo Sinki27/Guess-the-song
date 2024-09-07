@@ -4,9 +4,10 @@ Este projeto apresenta um teste em formato de jogo onde o usuário precisa adivi
 
 # Fotos
 
+<img src="./img/readme/telaHome.png.PNG" alt="Tela home">
+<img src="./img/readme/telaFooter.png.PNG" alt="Tela home footer">
+<img src="./img/readme/telaHomeMusica.png.PNG" alt="Tela musica">
 <img src="./img/readme/telaHomeMusicaDica.PNG" alt="Tela musica com prompt de dica">
-
-![Tela musica com prompt de dica]([text](https://imgur.com/gQbuPlq))
 
 ## Tecnologias Utilizadas
 
