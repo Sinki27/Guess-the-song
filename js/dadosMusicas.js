@@ -61,6 +61,62 @@ let dadosMusicas = [
          cantor: "Michael Jackson", 
          anos: "1983", 
          genero: "Pop" 
+    },
+    {
+        musica: "./sons/Mina_do_Condominio.mp3",
+        nome: "Mina do Condomínio",
+        cantor: "Seu Jorge",
+        anos: "2008",
+        genero: "Samba"
+    },
+    {
+        musica: "./sons/Flor_de_Tangerina.mp3",
+        nome: "Flor de Tangerina",
+        cantor: "Alceu Valença",
+        anos: "1982",
+        genero: "MPB"
+    },
+    {
+        musica: "./sons/Joao_e_Maria.mp3",
+        nome: "João e Maria",
+        cantor: "Chico Buarque",
+        anos: "1977",
+        genero: "MPB"
+    },
+    {
+        musica: "./sons/Bang.mp3",
+        nome: "Bang",
+        cantor: "Anitta",
+        anos: "2016",
+        genero: "Pop"
+    },
+    {
+        musica: "./sons/Apaguei_Pra_Todos.mp3",
+        nome: "Apaguei pra Todos",
+        cantor: "Ferrugem",
+        anos: "2024",
+        genero: "Pagode"
+    },
+    {
+        musica: "./sons/Billie_Jean.mp3",
+        nome: "Billie Jean",
+        cantor: "Michael Jackson",
+        anos: "1982",
+        genero: "Pop"
+    },
+    {
+        musica: "./sons/Save_Your_Tears.mp3",
+        nome: "Save Your Tears",
+        cantor: "The Weeknd",
+        anos: "2020",
+        genero: "Pop"
+    },
+    {
+        musica: "./sons/Industry_baby.mp3",
+        nome: "Industry Baby",
+        cantor: "Lil Nas X",
+        anos: "2021",
+        genero: "Hip Hop"
     }
 ]
 

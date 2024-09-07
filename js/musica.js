@@ -26,6 +26,7 @@ function trocarMusica() {
             <button onclick="reload()">Jogar Novamente</button>
         </div>
         `
+        botaoT.classList.add('desativado');
 }
 
 function reload() {
