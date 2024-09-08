@@ -61,5 +61,12 @@ let dados = [
         banda: "Michael Jackson",
         link: "https://gemini.google.com/app?utm_source=website&utm_medium=referral&utm_campaign=alura_aug24",
         tags: "Michael Jackson Beat it"
+    },
+    {
+        titulo: "Feel Good Inc.",
+        descricao: "É uma das músicas mais icônicas da banda virtual Gorillaz, presente no álbum 'Demon Days' (2005). Essa canção é uma verdadeira viagem sonora, combinando elementos do hip-hop, rock alternativo, eletrônica e até mesmo elementos de música africana.",
+        banda: "Gorillaz",
+        link: "https://gemini.google.com/app?utm_source=website&utm_medium=referral&utm_campaign=alura_aug24",
+        tags: "Gorillaz Feel Good Inc."
     }
 ];

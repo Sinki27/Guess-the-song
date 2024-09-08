@@ -117,6 +117,13 @@ let dadosMusicas = [
         cantor: "Lil Nas X",
         anos: "2021",
         genero: "Hip Hop"
+    },
+    {
+        musica: "./sons/Feel_Good_Inc.mp3",
+        nome: "Feel Good Inc.",
+        cantor: "Gorillaz",
+        anos: "2005",
+        genero: "Pop"
     }
 ]
 
