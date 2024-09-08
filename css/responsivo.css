@@ -1,0 +1,17 @@
+@media (max-width: 500px) {
+    h1 {
+        font-size: 1.75rem;
+    }
+
+    .responsivoHome {
+        width: 20%;
+    }
+
+    .responsivoMusica {
+        width: 30%;
+    }
+
+    section input {
+        width: 80%;
+    }
+}

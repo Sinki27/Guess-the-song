@@ -69,10 +69,13 @@ section button {
     cursor: pointer; /* Muda o cursor para indicar que é clicável */
 }
 
+.botoes {
+    text-align: center;
+}
 
 
 .imagem-fundo {
-    background-image: url("./img/fundoFone.jpeg"); /* Imagem de fundo da página */
+    background-image: url("/img/fundoFone.jpeg"); /* Imagem de fundo da página */
     background-repeat: no-repeat; /* Não repetir a imagem */
     background-size: cover; /* Tamanho da Imagem */
     background-position: center; /* Posição da imagem*/

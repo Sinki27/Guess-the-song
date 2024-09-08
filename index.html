@@ -5,8 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="./img/icon.jpeg" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="card.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/card.css">
+    <link rel="stylesheet" href="./css/responsivo.css">
     <title>Guess the song!</title>
 </head>
 
@@ -20,7 +21,7 @@
                 
                 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fJ9rUzIMcZQ"></iframe> -->
                 
-                <div class="item-resultado regras ativado">
+                <div class="item-resultado regras ativado responsivoHome">
                     <h2> Como funciona o Jogo?</h2>
                         <p class="descricao-meta"> Desafie seu cérebro tentando se lembrar do nome da música que está ouvindo. Vamos ver se você é bom o bastante!!</p>
                         <p class="descricao-meta"></p>
@@ -32,10 +33,10 @@
                         <p class="descricao-meta"> Ouvir </p>
                 </div> -->
 
-                <div class="musicaTocar desativado">
+                <div class="musicaTocar desativado responsivoMusica">
                     <div class="item-resultado" >
                         <h2> Adivinhe a música </h2>
-                            <p class="descricao-meta"> Aperte o botão e se prepare para ouvir a música. <br> Se você souber o nome e quiser enviar sua resposta, escreva seu chute aqui <br> embaixo e descubra se acertou ou não! <br> <br> Me mostre que conhece todas as músicas para ganhar o jogo!</p>
+                            <p class="descricao-meta"> Aperte o botão e se prepare para ouvir a música. <br> Se você souber o nome e quiser enviar sua resposta, escreva seu chute aqui, e use o enviar para ver se você está certo. <br> embaixo e descubra se acertou ou não! <br> <br> Me mostre que conhece todas as músicas para ganhar o jogo!</p>
                             <ul class="app__card-list">
                                 <li class="app__card-list-item">
                                     <label class="toggle">
@@ -52,7 +53,7 @@
                             <div class="input">
                                 <input type="text" placeholder="Digite o nome da musica" id="campo-pesquisa">
                             </div>
-                            <div>
+                            <div class="botoes">
                                 <button onclick="validar()">Enviar</button>
                                 <button onclick="dica()">Dica</button>
                                 <button onclick="trocarMusica()">Trocar a Musica</button>
@@ -76,6 +77,7 @@
     
     <script src="./js/dados.js"></script>
     <script src="./js/app.js"></script>
+    <script src="./js/responsivo.js"></script>
 </body>
 
 </html>
