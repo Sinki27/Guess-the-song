@@ -55,7 +55,7 @@ function pesquisar() {
         if (titulo.includes(campoPesquisa) || descricao.includes(campoPesquisa) || tags.includes(campoPesquisa)) {
             // cria um novo elemento
             resultados += `
-            <div class="item-resultado">
+            <div class="item-resultado responsivoHome">
                 <h2>
                     <a href="#" target="_blank">${dado.titulo}</a>
                 </h2>

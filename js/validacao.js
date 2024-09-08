@@ -22,12 +22,14 @@ function validar() {
         if (nome.includes(chute)) {
             console.log('Você acertou')
             section.innerHTML =`
-                <div class="item-resultado">
+                <div class="item-resultado responsivoHome">
                     <h2> Você acertou!!</h2>
                         <h3>O nome da musica é <label class="campo-pesquisa_valor">${nome.toUpperCase()}</label></h3>
-            
-                    <button onclick="reload()">Jogar Novamente</button>
-                    <button onclick="pesquisar()">Para saber mais da Musica</button>
+
+                    <div class="botoes">
+                        <button onclick="reload()">Jogar Novamente</button>
+                        <button onclick="pesquisar()">Saber mais da Musica</button>
+                    </div>
                 </div>
                 `
                 botaoT.classList.add('desativado'); 

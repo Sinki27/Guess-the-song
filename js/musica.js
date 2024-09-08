@@ -20,7 +20,7 @@ let section = document.querySelector(".resultados-pesquisa");
 
 function trocarMusica() {
     section.innerHTML =`
-        <div class="item-resultado">
+        <div class="item-resultado responsivoHome">
             <h2> Vamos partir para outra!!</h2>
             
             <button onclick="reload()">Jogar Novamente</button>
